@@ -1,0 +1,9 @@
+In this chapter we'll write a computer program implementing a neural network that learns to recognize handwritten digits. The program is just 74 lines long, and uses no special neural network libraries. But this short program can recognize digits with an accuracy over 96 percent, without human intervention. Furthermore, in later chapters we'll develop ideas which can improve accuracy to over 99 percent. In fact, the best commercial neural networks are now so good that they are used by banks to process cheques, and by post offices to recognize addresses.
+
+OBJECTIF 96%
+
+Perceptron -> histoire de moyenne
+
+Sigmoid -> valeur entre 0 et 1
+
+Couche au centre = hidden
